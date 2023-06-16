@@ -44,3 +44,5 @@ to see the result of all file python file_name.py
 4. git config --global user.name RakeshSahoo20
 5. git commit -m "This is my firsh source code"
 6. git push origin main -f (for forcefully psh the data)
+
+7. this file is edited in githubrepo (pull the github edited file into vs code)
