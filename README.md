@@ -43,3 +43,4 @@ to see the result of all file python file_name.py
 3. git config --global user.email rakesh.sahoo15@gmail.com
 4. git config --global user.name RakeshSahoo20
 5. git commit -m "This is my firsh source code"
+6. git push origin main -f (for forcefully psh the data)
