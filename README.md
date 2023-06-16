@@ -44,6 +44,6 @@ to see the result of all file python file_name.py
 4. git config --global user.name RakeshSahoo20
 5. git commit -m "This is my firsh source code"
 6. git push origin main -f (for forcefully psh the data)
-7. whateever folder is personal like some security access that file name we write in to .gitignore folder the folder would not appear in github repo
-8. how to pull github changes in to ur vs code 9 points on ward ignore this line
-9. 
+
+7. this file is edited in githubrepo (pull the github edited file into vs code)
+8. for pull any change in git hub repo code is git pull origin main
